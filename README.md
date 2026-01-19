@@ -6,7 +6,7 @@ I build what I love - scalable, maintainable systems and services.
 
 My main tech stack is C# .Net, but I also work in typescript, react and python sometimes. Some of my favourite tools are Unity Engine, Miro and Jetbrains Rider.
 
-I learn new things by building, I've built over 50 projects focusing on different things, mostly but not limited to realms of backend. Projects involving simulations, analysis, multiplayer games, developer tools and game mods.
+I learn new things by building, I've created over 50 repos focusing on different things, mostly but not limited to realms of backend. Projects involving simulations, analysis, multiplayer games, developer tools and game mods.
 
 Fun Facts:
 - Im a coffe addict,
